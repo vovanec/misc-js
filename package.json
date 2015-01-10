@@ -1,0 +1,23 @@
+{
+  "name": "misc-js",
+  "version": "0.0.1",
+  "description": "Various utilities for Node.js",
+  "main": "misc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vovanec/misc-js.git"
+  },
+  "keywords": [
+    "utils",
+    "utilities"
+  ],
+  "author": "Volodymyr Kuznetsov <vovanec@gmail.com> (https://github.com/vovanec)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovanec/misc-js/issues"
+  },
+  "homepage": "https://github.com/vovanec/misc-js"
+}
