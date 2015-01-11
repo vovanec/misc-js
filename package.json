@@ -1,6 +1,6 @@
 {
   "name": "misc-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Various utilities for Node.js",
   "main": "misc.js",
   "scripts": {
