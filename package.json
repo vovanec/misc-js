@@ -1,6 +1,6 @@
 {
   "name": "misc-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Various utilities for Node.js",
   "main": "misc.js",
   "scripts": {
@@ -14,6 +14,9 @@
     "utils",
     "utilities"
   ],
+  "dependencies": {
+    "underscore": "*"
+  },
   "author": "Volodymyr Kuznetsov <vovanec@gmail.com> (https://github.com/vovanec)",
   "license": "ISC",
   "bugs": {
