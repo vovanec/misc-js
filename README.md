@@ -15,7 +15,8 @@ Lambda example:
 ```
 
 ```
-bash-3.2$ node example.js 
-[ 2, 4, 6, 8, 10 ]
+bash-3.2$ node example.js
+1420964878160 [INFO]: 2,4,6,8,10
+1420964878161 [INFO]: 2,4,6,8,10
 ```
 
