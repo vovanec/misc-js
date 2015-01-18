@@ -26,6 +26,7 @@ var _make_logger = function (level) {
 
 
 var log = {
+    trace:    _make_logger('DEBUG'),
     debug:    _make_logger('DEBUG'),
     info:     _make_logger('INFO'),
     warn:     _make_logger('WARNING'),
